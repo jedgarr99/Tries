@@ -143,4 +143,4 @@ El proyecto esta: ***terminado***
 
 ## Contacto
 Creado por    [@jedgarr99](https://github.com/jedgarr99) 
-_¡Contactame si tienes cualquier duda!_
+_¡Contáctame si tienes cualquier duda!_
